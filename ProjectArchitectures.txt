@@ -1,0 +1,1 @@
+C:\Users\alenj\source\repos\CalculatorApp\CalculatorApp.csproj;x64
